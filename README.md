@@ -10,5 +10,6 @@ Un blog increíble para el[ curso de Git y Github](https://cursos/git " curso de
 * ETC
 * Creado por Jesus
 * Incluye ejemplos en windows, linux y mac
+*disponible para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un ejemplo**.  Diseñado para el ejemplo.
