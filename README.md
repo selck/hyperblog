@@ -8,5 +8,7 @@ Un blog increíble para el[ curso de Git y Github](https://cursos/git " curso de
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * ETC
+* Creado por Jesus
+* Incluye ejemplos en windows, linux y mac
 
 Y como un amable recordatorio: **Este readme.md es un ejemplo**.  Diseñado para el ejemplo.
